@@ -1,9 +1,1 @@
-<<<<<<< HEAD
-torre negra
-guardioes da galaxia
-teste 3
-=======
-Torre negra
-Armagedon
-teste4
->>>>>>> origin/master
+liga da justiça
